@@ -1,0 +1,1338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama apprev="20895" id="node1" hassounds="0" hideabout="1" appversion="7.1.1a">
+  <input overlap="1" flat="1" levelingpitch="1" levelbiashidpi="1.000" width="7422" leveltilesize="510" cylinder="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.webp" height="5567" levelbias="0.400" levelingroll="0">
+    <level preload="0" predecode="0" height="5567" width="7422"/>
+    <level preload="0" predecode="0" height="2783" width="3711"/>
+    <level preload="0" predecode="0" height="1391" width="1855"/>
+    <level preload="0" predecode="0" height="695" width="927"/>
+    <level preload="1" predecode="1" height="347" width="463"/>
+    <preview color="0x808080"/>
+  </input>
+  <view fovmode="2" pannorth="0">
+    <start projection="4" pan="0" tilt="0" fov="100"/>
+    <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+    <min fovpixel="8" pan="0" tilt="-90"/>
+    <max pan="360" tilt="90" fov="140" fovstereographic="330" fovfisheye="360" scaletofit="1"/>
+  </view>
+  <userdata tags="" datetime="" customnodeid="" longitude="" description="" copyright="" source="" info="" title="" latitude="" author="" comment="" heading="0" nodeid="node1"/>
+  <hotspots height="0" wordwrap="0" smoothmovement="0" width="180">
+    <label textcolor="0x000000" textalpha="1" borderalpha="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderradius="10" height="0" wordwrap="0" enabled="1"/>
+    <polystyle backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" mode="2" bordercolor="0x0000ff"/>
+    <polyhotspot borderalpha="1" target="_self" backgroundcolor="0x0000ff" description="" bordercolor="0x0000ff" backgroundalpha="0.25098" title="&lt;b>F6905&lt;/b>&lt;br>6AMP-24V" id="F6905" url="">
+      <polystring>47.33/41.53|47.33/40.52|45.54/40.52|45.54/41.53</polystring>
+    </polyhotspot>
+    <polyhotspot borderalpha="1" target="_blank" backgroundcolor="0xaa0000" description="" bordercolor="0xaa0000" backgroundalpha="0.25098" title="&lt;b>C6905&lt;/b>&lt;br/>0.01UF 50V&lt;br/>20%&#xa;CERM&#xa;603" id="C6905" url="">
+      <polystring>48.48/41.6|48.02/41.6|48.02/40.35|48.48/40.35</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="C9000" target="_blank" url="" description="">
+      <polystring>42.23/37.8|42.04/37.99|41.61/37.56|41.79/37.38</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly04" target="_blank" url="" description="">
+      <polystring>43.45/34.48|42.86/34.48|42.86/33.68|43.45/33.68</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly05" target="_blank" url="" description="">
+      <polystring>45.32/33.73|44.58/33.73|44.58/33.15|45.32/33.15</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly06" target="_blank" url="" description="">
+      <polystring>51.59/30.69|47.64/30.69|47.64/25.82|51.59/25.8</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly07" target="_blank" url="" description="">
+      <polystring>44.11/25.99|43.64/25.99|43.64/24.72|44.11/24.72</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly08" target="_blank" url="" description="">
+      <polystring>43.34/26.19|42.62/26.19|42.62/24.67|43.34/24.67</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly09" target="_blank" url="" description="">
+      <polystring>53.48/29.21|52.87/29.21|52.87/28.88|53.48/28.88</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly10" target="_blank" url="" description="">
+      <polystring>53.49/28.71|52.87/28.71|52.87/28.38|53.49/28.38</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly11" target="_blank" url="" description="">
+      <polystring>53.49/28.21|52.88/28.21|52.88/27.86|53.49/27.86</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly12" target="_blank" url="" description="">
+      <polystring>53.49/27.68|52.88/27.68|52.88/27.33|53.49/27.33</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly13" target="_blank" url="" description="">
+      <polystring>53.96/25.42|53.29/26.04|51.73/24.46|52.4/23.8</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly14" target="_blank" url="" description="">
+      <polystring>50.4/24.82|49.72/24.82|49.72/24.42|50.4/24.42</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly15" target="_blank" url="" description="">
+      <polystring>49.2/24.83|48.4/24.83|48.4/24.41|49.2/24.41</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly16" target="_blank" url="" description="">
+      <polystring>50.43/23.76|49.74/23.76|49.74/23.39|50.43/23.39</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly17" target="_blank" url="" description="">
+      <polystring>50.43/23.23|49.76/23.23|49.76/22.84|50.43/22.84</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly18" target="_blank" url="" description="">
+      <polystring>52.96/21.92|52.62/21.92|52.62/21.26|52.96/21.26</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly19" target="_blank" url="" description="">
+      <polystring>52.98/20.99|52.63/20.99|52.63/20.25|52.98/20.25</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly20" target="_blank" url="" description="">
+      <polystring>52.26/21.74|51.41/21.74|51.41/20.45|52.26/20.45</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly21" target="_blank" url="" description="">
+      <polystring>47.96/24.36|47.96/19.65|43.2/19.61|43.19/24.35</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly22" target="_blank" url="" description="">
+      <polystring>49.9/20.25|49.52/20.25|49.52/19.49|49.9/19.49</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly23" target="_blank" url="" description="">
+      <polystring>48.89/20.33|48.53/20.33|48.53/19.52|48.89/19.52</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly24" target="_blank" url="" description="">
+      <polystring>49.79/19.34|49.08/19.34|49.08/18.98|49.79/18.98</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly25" target="_blank" url="" description="">
+      <polystring>48.88/19.35|48.19/19.35|48.19/18.98|48.88/18.98</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly26" target="_blank" url="" description="">
+      <polystring>47.89/19.08|47.55/19.08|47.55/18.36|47.89/18.36</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly27" target="_blank" url="" description="">
+      <polystring>47.38/19.08|47.04/19.08|47.04/18.33|47.38/18.33</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly28" target="_blank" url="" description="">
+      <polystring>46.91/19.07|46.53/19.07|46.53/18.35|46.91/18.35</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly29" target="_blank" url="" description="">
+      <polystring>46.02/19.06|46.37/19.06|46.37/18.33|46.02/18.33</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly30" target="_blank" url="" description="">
+      <polystring>44.45/18.85|44.11/18.85|44.11/18.18|44.45/18.18</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly31" target="_blank" url="" description="">
+      <polystring>43.58/18.86|43.97/18.86|43.97/18.16|43.58/18.16</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly01" target="_blank" url="" description="">
+      <polystring>44.47/17.98|42.74/17.98|42.73/16.24|44.47/16.24</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly02" target="_blank" url="" description="">
+      <polystring>45.31/17.77|44.98/17.77|44.98/17.09|45.31/17.09</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly03" target="_blank" url="" description="">
+      <polystring>46.56/17.92|45.75/17.92|45.75/17.55|46.56/17.55</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly32" target="_blank" url="" description="">
+      <polystring>48.49/17.76|48.1/17.76|48.1/17.06|48.49/17.06</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly33" target="_blank" url="" description="">
+      <polystring>47.35/17.36|46.58/17.36|46.58/16.99|47.35/16.99</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly34" target="_blank" url="" description="">
+      <polystring>49.39/17.37|48.67/17.37|48.67/17.03|49.39/17.03</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly35" target="_blank" url="" description="">
+      <polystring>50.74/18.15|50.08/18.15|50.08/17.8|50.74/17.8</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly36" target="_blank" url="" description="">
+      <polystring>50.73/17.61|50.08/17.61|50.08/17.25|50.73/17.25</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly37" target="_blank" url="" description="">
+      <polystring>50.73/17.12|50.08/17.12|50.08/16.78|50.73/16.78</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly38" target="_blank" url="" description="">
+      <polystring>50.72/16.59|50.09/16.59|50.09/16.24|50.72/16.24</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly39" target="_blank" url="" description="">
+      <polystring>52.29/17.14|51.66/17.14|51.66/16.81|52.29/16.81</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly40" target="_blank" url="" description="">
+      <polystring>52.27/16.63|51.66/16.63|51.66/16.28|52.27/16.28</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly41" target="_blank" url="" description="">
+      <polystring>50.84/16.08|50.16/16.08|50.16/15.74|50.84/15.74</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly42" target="_blank" url="" description="">
+      <polystring>50.51/15.56|49.87/15.56|49.87/15.19|50.51/15.19</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly43" target="_blank" url="" description="">
+      <polystring>54.11/15.88|53.87/15.88|53.87/15.44|54.11/15.44</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly44" target="_blank" url="" description="">
+      <polystring>53.75/14.27|53.28/14.27|53.28/14.02|53.75/14.02</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly45" target="_blank" url="" description="">
+      <polystring>53.75/13.06|53.3/13.06|53.3/12.84|53.75/12.84</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly46" target="_blank" url="" description="">
+      <polystring>52.11/13.64|51.89/13.64|51.89/13.25|52.11/13.25</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly47" target="_blank" url="" description="">
+      <polystring>52.1/12.64|51.88/12.64|51.88/13.07|52.1/13.07</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly48" target="_blank" url="" description="">
+      <polystring>49.49/16.84|45.35/16.84|45.34/12.66|49.52/12.65</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly49" target="_blank" url="" description="">
+      <polystring>44.92/16|44.3/16|44.3/15.7|44.92/15.7</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly50" target="_blank" url="" description="">
+      <polystring>43.36/15.65|44.05/15.65|44.05/16.03|43.36/16.03</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly51" target="_blank" url="" description="">
+      <polystring>44.63/15.45|43.94/15.45|43.94/15.12|44.63/15.12</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly52" target="_blank" url="" description="">
+      <polystring>44.59/14.5|43.94/14.5|43.94/14.83|44.59/14.83</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly53" target="_blank" url="" description="">
+      <polystring>43.63/14.6|43.05/14.6|43.05/14.28|43.63/14.28</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly54" target="_blank" url="" description="">
+      <polystring>42.7/15.11|42/15.11|42/14.78|42.7/14.78</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly55" target="_blank" url="" description="">
+      <polystring>42.71/14.61|42.02/14.61|42.02/14.25|42.71/14.25</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly56" target="_blank" url="" description="">
+      <polystring>45.01/13.65|44.43/13.65|44.43/13.34|45.01/13.34</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly57" target="_blank" url="" description="">
+      <polystring>45.01/13.17|44.43/13.17|44.43/12.83|45.01/12.83</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly58" target="_blank" url="" description="">
+      <polystring>43.39/13.96|41.92/13.96|41.93/12.03|43.39/12.03</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly59" target="_blank" url="" description="">
+      <polystring>41.66/12.39|41.32/12.39|41.32/11.74|41.66/11.74</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly60" target="_blank" url="" description="">
+      <polystring>44.03/12.33|43.69/12.33|43.69/11.72|44.03/11.72</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly61" target="_blank" url="" description="">
+      <polystring>44.18/12.34|44.51/12.34|44.51/11.73|44.18/11.73</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly62" target="_blank" url="" description="">
+      <polystring>45.01/12.34|44.66/12.34|44.66/11.73|45.01/11.73</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly63" target="_blank" url="" description="">
+      <polystring>45.51/12.35|45.19/12.35|45.19/11.72|45.51/11.72</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly64" target="_blank" url="" description="">
+      <polystring>46.02/12.36|45.7/12.36|45.7/11.73|46.02/11.73</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly65" target="_blank" url="" description="">
+      <polystring>46.52/12.38|46.19/12.38|46.19/11.74|46.52/11.74</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly66" target="_blank" url="" description="">
+      <polystring>47.03/12.37|46.71/12.37|46.71/11.74|47.03/11.74</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly67" target="_blank" url="" description="">
+      <polystring>47.53/12.38|47.21/12.38|47.21/11.73|47.53/11.73</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly68" target="_blank" url="" description="">
+      <polystring>48.05/12.38|47.74/12.38|47.74/11.73|48.05/11.73</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly69" target="_blank" url="" description="">
+      <polystring>48.52/12.39|48.23/12.39|48.23/11.75|48.52/11.75</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly70" target="_blank" url="" description="">
+      <polystring>49.07/12.5|48.73/12.5|48.73/11.87|49.07/11.87</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly71" target="_blank" url="" description="">
+      <polystring>49.53/12.51|49.21/12.51|49.21/11.86|49.53/11.86</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly72" target="_blank" url="" description="">
+      <polystring>50.16/11.98|49.73/11.98|49.73/11.73|50.16/11.73</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly73" target="_blank" url="" description="">
+      <polystring>50.31/11.98|50.81/11.98|50.81/11.72|50.3/11.72</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly74" target="_blank" url="" description="">
+      <polystring>50.19/12.52|49.97/12.52|49.97/12.14|50.19/12.14</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly75" target="_blank" url="" description="">
+      <polystring>50.52/12.53|50.3/12.53|50.3/12.14|50.52/12.14</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly76" target="_blank" url="" description="">
+      <polystring>50.31/12.7|50.31/12.94|50.78/12.94|50.78/12.7</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly77" target="_blank" url="" description="">
+      <polystring>50.14/12.94|49.74/12.94|49.74/12.68|50.14/12.68</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly78" target="_blank" url="" description="">
+      <polystring>50/13.73|49.69/13.73|49.69/13.08|50/13.08</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly79" target="_blank" url="" description="">
+      <polystring>50.84/14.03|50.22/14.03|50.22/13.7|50.84/13.7</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly80" target="_blank" url="" description="">
+      <polystring>50.54/14.53|49.92/14.53|49.92/14.21|50.54/14.21</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly81" target="_blank" url="" description="">
+      <polystring>49.86/15.03|50.54/15.03|50.54/14.72|49.86/14.72</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly82" target="_blank" url="" description="">
+      <polystring>53.14/11.45|52.91/11.45|52.91/11.08|53.14/11.08</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly83" target="_blank" url="" description="">
+      <polystring>53.48/11.47|53.27/11.47|53.27/11.07|53.48/11.07</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly84" target="_blank" url="" description="">
+      <polystring>53.09/11.66|53.09/11.88|52.69/11.88|52.69/11.66</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly85" target="_blank" url="" description="">
+      <polystring>53.68/11.89|53.23/11.89|53.23/11.65|53.68/11.65</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly86" target="_blank" url="" description="">
+      <polystring>54.14/11.47|53.93/11.47|53.93/11.1|54.14/11.1</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly87" target="_blank" url="" description="">
+      <polystring>53.73/10.91|53.29/10.91|53.29/10.66|53.73/10.66</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly88" target="_blank" url="" description="">
+      <polystring>52.68/10.91|53.11/10.91|53.11/10.65|52.68/10.65</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly89" target="_blank" url="" description="">
+      <polystring>50.13/11.58|49.44/11.58|49.44/11.17|50.13/11.17</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly90" target="_blank" url="" description="">
+      <polystring>50.31/11.58|50.31/11.2|51.17/11.2|51.17/11.58</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly91" target="_blank" url="" description="">
+      <polystring>50.75/11.03|50.35/11.03|50.35/10.34|50.75/10.34</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly92" target="_blank" url="" description="">
+      <polystring>50.2/11.05|49.82/11.05|49.82/10.32|50.2/10.32</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly93" target="_blank" url="" description="">
+      <polystring>53.11/10.56|52.46/10.56|52.46/10.18|53.11/10.18</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly94" target="_blank" url="" description="">
+      <polystring>53.29/10.56|54/10.56|54/10.15|53.29/10.15</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly95" target="_blank" url="" description="">
+      <polystring>47.42/9.31|46.99/9.31|46.99/9.09|47.42/9.09</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly96" target="_blank" url="" description="">
+      <polystring>47.42/8.76|46.98/8.76|46.98/8.99|47.42/8.99</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly97" target="_blank" url="" description="">
+      <polystring>47.43/8.08|47.02/8.08|47.02/7.83|47.43/7.83</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly98" target="_blank" url="" description="">
+      <polystring>47.42/7.74|47.03/7.74|47.03/7.5|47.42/7.5</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly99" target="_blank" url="" description="">
+      <polystring>47.81/7.97|47.58/7.97|47.58/7.6|47.81/7.6</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly100" target="_blank" url="" description="">
+      <polystring>47.8/9.24|47.54/9.24|47.54/8.84|47.8/8.84</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly101" target="_blank" url="" description="">
+      <polystring>47.42/10.63|46.78/10.63|46.78/10.31|47.42/10.31</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly102" target="_blank" url="" description="">
+      <polystring>48.47/9.6|48.3/9.75|48/9.45|48.17/9.3</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly103" target="_blank" url="" description="">
+      <polystring>48.71/9.4|48.55/9.53|48.25/9.23|48.42/9.08</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly104" target="_blank" url="" description="">
+      <polystring>49.15/9.49|48.99/9.33|48.66/9.63|48.83/9.79</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly105" target="_blank" url="" description="">
+      <polystring>48.69/9.92|48.54/9.76|48.2/10.13|48.37/10.27</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly106" target="_blank" url="" description="">
+      <polystring>50.8/10.19|50.37/10.19|50.37/9.96|50.8/9.96</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly107" target="_blank" url="" description="">
+      <polystring>50.18/10.19|49.73/10.19|49.73/9.95|50.17/9.95</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly108" target="_blank" url="" description="">
+      <polystring>49.66/10.66|49.46/10.66|49.46/10.29|49.66/10.29</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly109" target="_blank" url="" description="">
+      <polystring>49.02/10.38|48.79/10.38|48.79/9.99|49.02/9.99</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly110" target="_blank" url="" description="">
+      <polystring>49.35/10.05|49.12/10.05|49.12/9.68|49.35/9.68</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly111" target="_blank" url="" description="">
+      <polystring>49.95/9.82|49.95/9.6|49.49/9.6|49.49/9.82</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly112" target="_blank" url="" description="">
+      <polystring>51.17/10.41|50.96/10.41|50.96/10.03|51.17/10.03</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly113" target="_blank" url="" description="">
+      <polystring>51.02/9.72|50.84/9.87|50.57/9.6|50.75/9.45</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly114" target="_blank" url="" description="">
+      <polystring>42.17/11.51|41.53/11.51|41.53/11.17|42.17/11.17</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly115" target="_blank" url="" description="">
+      <polystring>42.17/11|41.53/11|41.53/10.67|42.17/10.67</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly116" target="_blank" url="" description="">
+      <polystring>42.17/10.32|41.56/10.32|41.56/10|42.17/10</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly117" target="_blank" url="" description="">
+      <polystring>42.17/9.82|41.55/9.82|41.55/9.52|42.17/9.52</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly118" target="_blank" url="" description="">
+      <polystring>42.17/9.16|41.56/9.16|41.56/8.84|42.17/8.84</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly119" target="_blank" url="" description="">
+      <polystring>42.16/8.65|41.57/8.65|41.57/8.33|42.16/8.33</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly120" target="_blank" url="" description="">
+      <polystring>42.17/7.98|41.58/7.98|41.57/7.65|42.17/7.65</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly121" target="_blank" url="" description="">
+      <polystring>42.18/7.46|41.58/7.46|41.58/7.13|42.18/7.13</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly122" target="_blank" url="" description="">
+      <polystring>46.57/10.22|43.6/10.22|43.63/7.21|46.57/7.23</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly123" target="_blank" url="" description="">
+      <polystring>54.12/9.69|53.9/9.69|53.9/9.26|54.12/9.26</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly124" target="_blank" url="" description="">
+      <polystring>54.1/9.08|53.91/9.08|53.91/8.7|54.1/8.7</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly125" target="_blank" url="" description="">
+      <polystring>53.73/9.12|53.31/9.12|53.31/8.89|53.73/8.89</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly126" target="_blank" url="" description="">
+      <polystring>53.13/9.12|52.68/9.12|52.68/8.89|53.13/8.89</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly127" target="_blank" url="" description="">
+      <polystring>53.66/10.03|53.26/10.03|53.26/9.28|53.66/9.28</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly128" target="_blank" url="" description="">
+      <polystring>53.09/10.02|52.74/10.02|52.74/9.25|53.09/9.25</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly129" target="_blank" url="" description="">
+      <polystring>52.53/9.67|52.29/9.67|52.29/9.27|52.53/9.27</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly130" target="_blank" url="" description="">
+      <polystring>52.52/9.05|52.33/9.05|52.33/8.68|52.52/8.68</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly131" target="_blank" url="" description="">
+      <polystring>52.2/9.04|51.98/9.04|51.98/8.66|52.2/8.66</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly132" target="_blank" url="" description="">
+      <polystring>51.86/9.39|51.5/9.39|51.5/8.65|51.86/8.65</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly133" target="_blank" url="" description="">
+      <polystring>50.96/9.39|51.32/9.39|51.32/8.64|50.96/8.64</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly134" target="_blank" url="" description="">
+      <polystring>50.79/9.03|50.59/9.03|50.59/8.64|50.79/8.64</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly135" target="_blank" url="" description="">
+      <polystring>52.29/8.43|52.09/8.43|52.09/8.07|52.29/8.07</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly136" target="_blank" url="" description="">
+      <polystring>51.93/8.51|51.5/8.51|51.5/8.27|51.93/8.27</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly137" target="_blank" url="" description="">
+      <polystring>51.31/8.51|50.91/8.51|50.91/8.25|51.31/8.25</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly138" target="_blank" url="" description="">
+      <polystring>50.74/8.43|50.51/8.43|50.51/8.06|50.74/8.06</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly139" target="_blank" url="" description="">
+      <polystring>51.7/8.08|51.48/8.08|51.48/7.73|51.7/7.73</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly140" target="_blank" url="" description="">
+      <polystring>51.35/8.08|51.12/8.08|51.12/7.7|51.35/7.7</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly141" target="_blank" url="" description="">
+      <polystring>49.52/8.93|49.36/8.76|49.07/9.05|49.23/9.21</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly142" target="_blank" url="" description="">
+      <polystring>49.06/8.87|48.93/8.74|48.64/9.03|48.77/9.16</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly143" target="_blank" url="" description="">
+      <polystring>49.16/8.11|49.01/7.96|48.68/8.26|48.83/8.41</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly144" target="_blank" url="" description="">
+      <polystring>48.68/8.57|48.51/8.43|48.22/8.72|48.39/8.86</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly145" target="_blank" url="" description="">
+      <polystring>48.68/8.02|48.54/8.14|48.27/7.87|48.42/7.74</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly146" target="_blank" url="" description="">
+      <polystring>48.44/8.23|48.29/8.37|48.02/8.1|48.17/7.95</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly147" target="_blank" url="" description="">
+      <polystring>46.84/6.41|46.5/6.41|46.5/5.76|46.84/5.76</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly148" target="_blank" url="" description="">
+      <polystring>46.35/6.4|46.02/6.4|46.02/5.76|46.35/5.76</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly149" target="_blank" url="" description="">
+      <polystring>44.85/6.37|44.51/6.37|44.51/5.76|44.85/5.76</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly150" target="_blank" url="" description="">
+      <polystring>44.35/6.37|43.98/6.37|43.98/5.73|44.35/5.73</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly151" target="_blank" url="" description="">
+      <polystring>43.35/6.36|42.99/6.36|42.99/5.71|43.35/5.71</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly152" target="_blank" url="" description="">
+      <polystring>44.56/5.12|44.24/5.12|44.24/4.51|44.56/4.51</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly153" target="_blank" url="" description="">
+      <polystring>46.17/5.37|45.37/5.37|45.37/4.06|46.17/4.06</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly154" target="_blank" url="" description="">
+      <polystring>47.87/5.21|47.57/5.21|47.57/4.59|47.87/4.59</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly155" target="_blank" url="" description="">
+      <polystring>48.36/5.21|48.04/5.21|48.04/4.58|48.36/4.58</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly156" target="_blank" url="" description="">
+      <polystring>48.26/4.33|48.03/4.33|48.03/4|48.26/4</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly157" target="_blank" url="" description="">
+      <polystring>47.89/4.32|47.68/4.32|47.68/3.99|47.89/3.99</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly158" target="_blank" url="" description="">
+      <polystring>50.37/5.22|50.07/5.22|50.07/4.65|50.37/4.65</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly159" target="_blank" url="" description="">
+      <polystring>49.88/5.23|49.54/5.23|49.54/4.63|49.88/4.63</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly160" target="_blank" url="" description="">
+      <polystring>50.24/4.37|50.02/4.37|50.02/3.99|50.24/3.99</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly161" target="_blank" url="" description="">
+      <polystring>49.89/4.37|49.66/4.37|49.66/3.96|49.89/3.96</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly162" target="_blank" url="" description="">
+      <polystring>51.62/6.26|51.47/6.39|51.22/6.15|51.36/6</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly163" target="_blank" url="" description="">
+      <polystring>51.39/6.48|51.24/6.61|50.98/6.35|51.12/6.22</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly164" target="_blank" url="" description="">
+      <polystring>51.95/3.11|42.99/3.12|42.99/-5.66|51.98/-5.63</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly165" target="_blank" url="" description="">
+      <polystring>53.56/2.36|52.91/2.36|52.91/2.01|53.56/2.01</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly166" target="_blank" url="" description="">
+      <polystring>53.57/1.31|52.84/1.31|52.84/0.89|53.57/0.89</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly167" target="_blank" url="" description="">
+      <polystring>53.67/-0.39|52.98/-0.39|52.98/-0.76|53.67/-0.76</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly168" target="_blank" url="" description="">
+      <polystring>53.66/-0.9|53.01/-0.9|53.01/-1.25|53.66/-1.25</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly169" target="_blank" url="" description="">
+      <polystring>53.64/-1.42|53.04/-1.42|53.04/-1.78|53.64/-1.78</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly170" target="_blank" url="" description="">
+      <polystring>53.57/-2.49|52.97/-2.49|52.97/-2.87|53.57/-2.87</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly171" target="_blank" url="" description="">
+      <polystring>53.81/-4.63|53.48/-4.63|53.48/-5.3|53.81/-5.3</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly172" target="_blank" url="" description="">
+      <polystring>53.31/-4.65|52.96/-4.65|52.96/-5.33|53.31/-5.33</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly173" target="_blank" url="" description="">
+      <polystring>53.77/-6.94|53.43/-6.94|53.43/-7.63|53.77/-7.63</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly174" target="_blank" url="" description="">
+      <polystring>53.23/-6.94|52.92/-6.94|52.92/-7.66|53.23/-7.66</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly175" target="_blank" url="" description="">
+      <polystring>52.45/-6.71|52.16/-6.71|52.16/-7.33|52.45/-7.33</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly176" target="_blank" url="" description="">
+      <polystring>51.27/-6.71|50.98/-6.71|50.98/-7.35|51.27/-7.35</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly177" target="_blank" url="" description="">
+      <polystring>50.27/-6.7|49.97/-6.7|49.97/-7.31|50.27/-7.31</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly178" target="_blank" url="" description="">
+      <polystring>51.98/-6.72|51.67/-6.72|51.67/-7.31|51.98/-7.31</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly179" target="_blank" url="" description="">
+      <polystring>50.8/-6.72|50.5/-6.72|50.5/-7.34|50.8/-7.34</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly180" target="_blank" url="" description="">
+      <polystring>49.8/-6.71|49.46/-6.71|49.46/-7.32|49.8/-7.32</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly181" target="_blank" url="" description="">
+      <polystring>49.27/-6.72|48.96/-6.72|48.96/-7.34|49.27/-7.34</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly182" target="_blank" url="" description="">
+      <polystring>48.25/-6.71|47.92/-6.71|47.92/-7.35|48.25/-7.35</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly183" target="_blank" url="" description="">
+      <polystring>46.89/-6.71|46.57/-6.71|46.57/-7.35|46.89/-7.35</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly184" target="_blank" url="" description="">
+      <polystring>48.78/-6.73|48.49/-6.73|48.49/-7.34|48.78/-7.34</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly185" target="_blank" url="" description="">
+      <polystring>47.75/-6.73|47.44/-6.73|47.44/-7.36|47.75/-7.36</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly186" target="_blank" url="" description="">
+      <polystring>46.37/-6.72|46.08/-6.72|46.08/-7.36|46.37/-7.36</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly187" target="_blank" url="" description="">
+      <polystring>45.42/-6.79|45.1/-6.79|45.1/-7.45|45.42/-7.45</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly188" target="_blank" url="" description="">
+      <polystring>44.92/-6.8|44.62/-6.8|44.62/-7.46|44.92/-7.46</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly189" target="_blank" url="" description="">
+      <polystring>52.27/-8.04|51.66/-8.04|51.66/-8.36|52.27/-8.36</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly190" target="_blank" url="" description="">
+      <polystring>51.71/-7.53|51.07/-7.53|51.07/-7.86|51.71/-7.86</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly191" target="_blank" url="" description="">
+      <polystring>50.37/-7.56|49.68/-7.56|49.68/-7.87|50.37/-7.87</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly192" target="_blank" url="" description="">
+      <polystring>48.27/-7.53|47.3/-7.53|47.3/-8.07|48.27/-8.07</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly193" target="_blank" url="" description="">
+      <polystring>50.83/-8.26|48.45/-8.26|48.45/-10.69|50.83/-10.69</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly194" target="_blank" url="" description="">
+      <polystring>47.99/-8.67|46.93/-8.67|46.93/-10.39|47.99/-10.39</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly195" target="_blank" url="" description="">
+      <polystring>46.4/-8.6|45.78/-8.6|45.78/-8.94|46.4/-8.94</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly196" target="_blank" url="" description="">
+      <polystring>44.86/-8.12|44.57/-8.12|44.57/-8.73|44.86/-8.73</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly197" target="_blank" url="" description="">
+      <polystring>44.35/-8.14|44.04/-8.14|44.04/-8.79|44.35/-8.79</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly198" target="_blank" url="" description="">
+      <polystring>46.58/-9.08|44.72/-9.08|44.72/-10.1|46.58/-10.1</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly199" target="_blank" url="" description="">
+      <polystring>46.57/-10.32|44.72/-10.32|44.73/-11.34|46.57/-11.34</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly200" target="_blank" url="" description="">
+      <polystring>41.63/1.97|41.04/1.97|41.04/1.63|41.63/1.63</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly201" target="_blank" url="" description="">
+      <polystring>41.63/1.47|41.05/1.47|41.05/1.15|41.63/1.15</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly202" target="_blank" url="" description="">
+      <polystring>41.64/0.32|41.08/0.32|41.08/0|41.64/0</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly203" target="_blank" url="" description="">
+      <polystring>41.64/-0.22|41.05/-0.22|41.05/-0.53|41.64/-0.53</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly204" target="_blank" url="" description="">
+      <polystring>41.85/-1.04|41.27/-1.04|41.27/-1.38|41.85/-1.38</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly205" target="_blank" url="" description="">
+      <polystring>41.86/-1.58|41.3/-1.58|41.3/-1.9|41.86/-1.9</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly206" target="_blank" url="" description="">
+      <polystring>41.65/-3.16|41.06/-3.16|41.06/-3.5|41.65/-3.5</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly207" target="_blank" url="" description="">
+      <polystring>41.64/-3.63|41.08/-3.63|41.08/-3.96|41.64/-3.96</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly208" target="_blank" url="" description="">
+      <polystring>41.35/-4.16|40.75/-4.16|40.75/-4.48|41.35/-4.48</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly209" target="_blank" url="" description="">
+      <polystring>41.34/-4.66|40.75/-4.66|40.75/-5.02|41.34/-5.02</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly210" target="_blank" url="" description="">
+      <polystring>41.33/-5.14|40.76/-5.14|40.76/-5.49|41.33/-5.48</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly211" target="_blank" url="" description="">
+      <polystring>50.82/-15.03|50.63/-15.15|47.23/-15.21|47.06/-15.14|46.95/-14.91|46.86/-11.71|46.94/-11.51|47.14/-11.4|50.51/-11.32|50.69/-11.37|50.78/-11.49|50.89/-14.77</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly212" target="_blank" url="" description="">
+      <polystring>45.95/-11.74|42.94/-11.74|42.94/-15.31|45.95/-15.3</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly213" target="_blank" url="" description="">
+      <polystring>50.95/-15.99|49.64/-15.99|49.64/-16.85|50.95/-16.85</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly214" target="_blank" url="" description="">
+      <polystring>46.45/-16.11|45.3/-16.11|45.3/-16.88|46.45/-16.88</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly215" target="_blank" url="" description="">
+      <polystring>43.48/-15.66|42.89/-15.66|42.89/-15.99|43.48/-15.99</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly216" target="_blank" url="" description="">
+      <polystring>43.5/-16.45|42.88/-16.45|42.88/-16.15|43.5/-16.15</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly217" target="_blank" url="" description="">
+      <polystring>44.85/-16.52|44.5/-16.52|44.5/-17.11|44.85/-17.11</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly218" target="_blank" url="" description="">
+      <polystring>44.84/-17.39|44.51/-17.39|44.51/-17.98|44.84/-17.98</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly219" target="_blank" url="" description="">
+      <polystring>44.27/-17.41|43.97/-17.41|43.97/-17.98|44.27/-17.98</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly220" target="_blank" url="" description="">
+      <polystring>43.47/-16.7|42.93/-16.7|42.93/-16.97|43.47/-16.97</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly221" target="_blank" url="" description="">
+      <polystring>43.48/-17.17|42.88/-17.17|42.88/-17.53|43.48/-17.53</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly222" target="_blank" url="" description="">
+      <polystring>43.45/-17.67|42.91/-17.67|42.91/-17.98|43.45/-17.98</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly223" target="_blank" url="" description="">
+      <polystring>41.72/-17.41|41.03/-17.41|41.03/-17.74|41.72/-17.74</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly224" target="_blank" url="" description="">
+      <polystring>41.72/-16.9|41.06/-16.9|41.06/-17.26|41.72/-17.26</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly225" target="_blank" url="" description="">
+      <polystring>41.45/-15.63|40.48/-15.63|40.48/-16.34|41.45/-16.34</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly226" target="_blank" url="" description="">
+      <polystring>47.69/-18.67|46.72/-18.67|46.72/-19.66|47.69/-19.66</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly227" target="_blank" url="" description="">
+      <polystring>47.64/-19.78|47.06/-19.78|47.06/-20.08|47.64/-20.08</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly228" target="_blank" url="" description="">
+      <polystring>47.65/-20.3|47.05/-20.3|47.05/-20.64|47.65/-20.64</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly229" target="_blank" url="" description="">
+      <polystring>47.76/-20.87|47.39/-20.87|47.39/-21.49|47.76/-21.49</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly230" target="_blank" url="" description="">
+      <polystring>48.65/-20.77|48.18/-20.77|48.18/-21.45|48.65/-21.45</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly231" target="_blank" url="" description="">
+      <polystring>50.27/-20.62|49.69/-20.62|49.69/-21.49|50.27/-21.49</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly232" target="_blank" url="" description="">
+      <polystring>47.84/-21.78|47.22/-21.78|47.22/-22.09|47.84/-22.09</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly233" target="_blank" url="" description="">
+      <polystring>49.86/-22.24|49/-22.24|49/-22.78|49.86/-22.78</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly234" target="_blank" url="" description="">
+      <polystring>48.83/-22.52|48.51/-22.52|48.51/-23.11|48.83/-23.11</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly235" target="_blank" url="" description="">
+      <polystring>49.86/-24|49/-24|49/-23.45|49.86/-23.45</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly236" target="_blank" url="" description="">
+      <polystring>50.76/-23.81|50.13/-23.81|50.13/-24.14|50.76/-24.14</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly237" target="_blank" url="" description="">
+      <polystring>48.31/-22.95|47.55/-22.95|47.55/-24.18|48.31/-24.18</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly238" target="_blank" url="" description="">
+      <polystring>47.24/-22.67|46.61/-22.67|46.61/-23.01|47.24/-23.01</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly239" target="_blank" url="" description="">
+      <polystring>47.23/-23.19|46.61/-23.19|46.61/-23.53|47.23/-23.53</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly240" target="_blank" url="" description="">
+      <polystring>47.28/-23.86|46.49/-23.86|46.49/-25.13|47.28/-25.12</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly241" target="_blank" url="" description="">
+      <polystring>51.03/-25.11|50.69/-25.11|50.69/-25.72|51.03/-25.72</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly242" target="_blank" url="" description="">
+      <polystring>50.41/-24.46|49.21/-24.46|49.21/-25.68|50.41/-25.68</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly243" target="_blank" url="" description="">
+      <polystring>48.88/-24.68|47.66/-24.68|47.66/-26.51|48.88/-26.51</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly244" target="_blank" url="" description="">
+      <polystring>48.54/-26.9|48.16/-26.9|48.16/-27.5|48.54/-27.5</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly245" target="_blank" url="" description="">
+      <polystring>48.04/-26.9|47.68/-26.9|47.68/-27.54|48.04/-27.54</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly246" target="_blank" url="" description="">
+      <polystring>47.52/-26.93|47.18/-26.93|47.18/-27.55|47.52/-27.55</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly247" target="_blank" url="" description="">
+      <polystring>47.8/-32.96|47.16/-32.96|47.16/-33.33|47.8/-33.33</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly248" target="_blank" url="" description="">
+      <polystring>45.51/-27.19|43.73/-27.19|43.53/-27.09|43.42/-26.85|43.42/-25.12|43.52/-24.87|43.79/-24.75|45.59/-24.75|45.77/-24.88|45.86/-25.1|45.86/-26.93|45.75/-27.11</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly249" target="_blank" url="" description="">
+      <polystring>45.45/-27.97|45.12/-27.97|45.12/-28.61|45.45/-28.61</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly250" target="_blank" url="" description="">
+      <polystring>44.91/-27.98|44.56/-27.98|44.56/-28.6|44.91/-28.6</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly251" target="_blank" url="" description="">
+      <polystring>44.37/-27.99|44.03/-27.99|44.03/-28.59|44.37/-28.59</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly252" target="_blank" url="" description="">
+      <polystring>43.87/-28|43.52/-28|43.52/-28.57|43.87/-28.57</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly253" target="_blank" url="" description="">
+      <polystring>43.4/-28.01|43.05/-28.01|43.05/-28.58|43.4/-28.58</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly254" target="_blank" url="" description="">
+      <polystring>45.22/-29.11|44.02/-29.11|44.02/-29.99|45.22/-29.99</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly255" target="_blank" url="" description="">
+      <polystring>45.6/-30.36|44.93/-30.36|44.93/-30.66|45.6/-30.66</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly256" target="_blank" url="" description="">
+      <polystring>44.32/-30.36|43.7/-30.36|43.7/-30.68|44.32/-30.68</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly257" target="_blank" url="" description="">
+      <polystring>46.63/-13.32|46.31/-13.32|46.31/-13.94|46.63/-13.94</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly258" target="_blank" url="" description="">
+      <polystring>46.63/-14.2|46.32/-14.2|46.32/-14.82|46.63/-14.82</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly259" target="_blank" url="" description="">
+      <polystring>40.13/2.72|39.26/2.72|39.26/1.14|40.13/1.13</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly260" target="_blank" url="" description="">
+      <polystring>39.11/3.83|37.64/5.2|36.58/4.26|38.12/2.78</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly261" target="_blank" url="" description="">
+      <polystring>38.31/2.16|36.96/3.42|35.88/2.36|37.24/1.01</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly262" target="_blank" url="" description="">
+      <polystring>36.93/1|36.38/1|36.38/0.68|36.93/0.68</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly263" target="_blank" url="" description="">
+      <polystring>40.34/-0.79|39.19/0.31|36.71/0.31|35.56/-0.81|35.56/-3.25|36.73/-4.43|39.19/-4.43|40.34/-3.3</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly264" target="_blank" url="" description="">
+      <polystring>31.11/1.52|31.11/0.98|30/0.98|30/1.52</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly265" target="_blank" url="" description="">
+      <polystring>31.75/0.64|27.66/0.64|27.66/-1.87|31.76/-1.87</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly266" target="_blank" url="" description="">
+      <polystring>30.78/-2.03|27.23/-2.03|27.23/-5|30.78/-4.99</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly267" target="_blank" url="" description="">
+      <polystring>27.44/-5.42|27.11/-5.42|27.11/-6.01|27.44/-6.01</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly268" target="_blank" url="" description="">
+      <polystring>33.54/-5.28|33.2/-5.07|28.28/-5.08|27.95/-5.26|27.81/-5.57|27.81/-10.41|27.9/-10.78|28.26/-11.04|33.16/-11.04|33.53/-10.87|33.72/-10.53|33.71/-5.65</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly269" target="_blank" url="" description="">
+      <polystring>27.3/-13.13|27.08/-13.13|27.08/-13.47|27.3/-13.47</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly270" target="_blank" url="" description="">
+      <polystring>27.66/-13.1|27.45/-13.1|27.45/-13.5|27.66/-13.5</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly271" target="_blank" url="" description="">
+      <polystring>28.27/-13.1|28.04/-13.1|28.04/-13.51|28.27/-13.51</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly272" target="_blank" url="" description="">
+      <polystring>28.85/-13.11|28.64/-13.11|28.64/-13.47|28.85/-13.47</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly273" target="_blank" url="" description="">
+      <polystring>29.43/-13.1|29.22/-13.1|29.22/-13.51|29.43/-13.51</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly274" target="_blank" url="" description="">
+      <polystring>30.02/-13.13|29.79/-13.13|29.79/-13.5|30.02/-13.5</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly275" target="_blank" url="" description="">
+      <polystring>31.2/-13.09|30.98/-13.09|30.98/-13.49|31.2/-13.49</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly276" target="_blank" url="" description="">
+      <polystring>32.39/-13.1|32.17/-13.1|32.17/-13.5|32.39/-13.5</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly277" target="_blank" url="" description="">
+      <polystring>26.41/-13.19|25.82/-13.19|25.82/-13.54|26.41/-13.54</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly278" target="_blank" url="" description="">
+      <polystring>25.5/-13.05|24.15/-13.05|24.15/-13.89|25.5/-13.89</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly279" target="_blank" url="" description="">
+      <polystring>26.21/-13.75|25.77/-13.75|25.77/-13.96|26.21/-13.96</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly280" target="_blank" url="" description="">
+      <polystring>24.27/-14.15|24.05/-14.15|24.05/-14.54|24.27/-14.54</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly281" target="_blank" url="" description="">
+      <polystring>24.73/-14.14|24.51/-14.14|24.51/-14.55|24.73/-14.55</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly282" target="_blank" url="" description="">
+      <polystring>25.53/-14.1|24.93/-14.1|24.93/-14.45|25.53/-14.45</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly283" target="_blank" url="" description="">
+      <polystring>26.05/-14.12|25.81/-14.12|25.81/-14.56|26.05/-14.56</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly284" target="_blank" url="" description="">
+      <polystring>26.4/-14.12|26.15/-14.12|26.15/-14.55|26.4/-14.55</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly285" target="_blank" url="" description="">
+      <polystring>26.75/-14.11|26.51/-14.11|26.51/-14.56|26.75/-14.56</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly286" target="_blank" url="" description="">
+      <polystring>23.7/-14.01|23.47/-14.01|23.47/-14.43|23.7/-14.43</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly287" target="_blank" url="" description="">
+      <polystring>23.13/-14|22.86/-14|22.86/-14.44|23.13/-14.44</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly288" target="_blank" url="" description="">
+      <polystring>22.52/-14.01|22.27/-14.01|22.27/-14.42|22.52/-14.42</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly289" target="_blank" url="" description="">
+      <polystring>40.76/-35.62|40.41/-35.62|40.41/-36.2|40.76/-36.2</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly290" target="_blank" url="" description="">
+      <polystring>40.24/-35.61|39.9/-35.61|39.9/-36.21|40.24/-36.21</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly291" target="_blank" url="" description="">
+      <polystring>39.73/-35.62|39.39/-35.62|39.39/-36.23|39.73/-36.23</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly292" target="_blank" url="" description="">
+      <polystring>39.22/-35.64|38.83/-35.64|38.83/-36.2|39.22/-36.2</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly293" target="_blank" url="" description="">
+      <polystring>35.22/-3.01|34.92/-3.01|34.92/-3.73|35.22/-3.73</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly294" target="_blank" url="" description="">
+      <polystring>34.68/-2.51|33.86/-2.51|33.86/-3.96|34.68/-3.96</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly295" target="_blank" url="" description="">
+      <polystring>34.96/-5.02|34.18/-5.02|34.18/-6.32|34.96/-6.32</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly296" target="_blank" url="" description="">
+      <polystring>35.51/-5.68|35.17/-5.68|35.17/-6.29|35.51/-6.29</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly297" target="_blank" url="" description="">
+      <polystring>37.19/-6.79|34.69/-6.79|34.69/-10.99|37.19/-10.98</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly298" target="_blank" url="" description="">
+      <polystring>39.01/-6.53|38.01/-6.53|38.01/-8.32|39.01/-8.32</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly299" target="_blank" url="" description="">
+      <polystring>38.06/-8.96|37.71/-8.96|37.71/-9.57|38.06/-9.57</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly300" target="_blank" url="" description="">
+      <polystring>38.56/-8.95|38.23/-8.95|38.23/-9.56|38.56/-9.56</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly301" target="_blank" url="" description="">
+      <polystring>39.06/-8.96|38.72/-8.96|38.72/-9.57|39.06/-9.57</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly302" target="_blank" url="" description="">
+      <polystring>39.64/-8.97|39.34/-8.97|39.34/-9.57|39.64/-9.57</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly303" target="_blank" url="" description="">
+      <polystring>40.6/-8.72|40/-8.72|40/-9.06|40.6/-9.06</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly304" target="_blank" url="" description="">
+      <polystring>42.08/-9.12|41.72/-9.12|41.72/-9.71|42.08/-9.71</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly305" target="_blank" url="" description="">
+      <polystring>41.56/-9.13|41.23/-9.13|41.23/-9.71|41.55/-9.71</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly306" target="_blank" url="" description="">
+      <polystring>40.96/-9.29|40.34/-9.29|40.34/-9.66|40.96/-9.66</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly307" target="_blank" url="" description="">
+      <polystring>42.96/-9.45|42.3/-9.45|42.3/-9.82|42.96/-9.82</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly308" target="_blank" url="" description="">
+      <polystring>41.83/-9.92|41.2/-9.92|41.2/-10.27|41.83/-10.27</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly309" target="_blank" url="" description="">
+      <polystring>40.97/-10.04|40.62/-10.04|40.62/-10.69|40.97/-10.69</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly310" target="_blank" url="" description="">
+      <polystring>42.94/-9.9|42.29/-9.9|42.29/-10.25|42.94/-10.25</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly311" target="_blank" url="" description="">
+      <polystring>42.49/-10.48|42.16/-10.48|42.16/-11.07|42.49/-11.07</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly312" target="_blank" url="" description="">
+      <polystring>41.99/-10.5|41.66/-10.5|41.66/-11.11|41.99/-11.11</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly313" target="_blank" url="" description="">
+      <polystring>41.49/-10.51|41.16/-10.51|41.16/-11.11|41.49/-11.11</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly314" target="_blank" url="" description="">
+      <polystring>44.28/-9.55|43.94/-9.55|43.94/-10.2|44.28/-10.2</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly315" target="_blank" url="" description="">
+      <polystring>43.76/-9.54|43.45/-9.54|43.45/-10.2|43.76/-10.2</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly316" target="_blank" url="" description="">
+      <polystring>38.49/-9.98|37.89/-9.98|37.89/-10.33|38.49/-10.33</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly317" target="_blank" url="" description="">
+      <polystring>38.48/-10.5|37.89/-10.5|37.89/-10.85|38.48/-10.85</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly318" target="_blank" url="" description="">
+      <polystring>38.66/-11|38.08/-11|38.08/-11.36|38.66/-11.36</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly319" target="_blank" url="" description="">
+      <polystring>38.65/-11.5|38.03/-11.5|38.03/-11.87|38.65/-11.87</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly320" target="_blank" url="" description="">
+      <polystring>38.43/-11.99|37.81/-11.99|37.81/-12.31|38.43/-12.31</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly321" target="_blank" url="" description="">
+      <polystring>37.71/-11.11|37.5/-11.11|37.5/-11.49|37.71/-11.49</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly322" target="_blank" url="" description="">
+      <polystring>37.55/-11.97|36.93/-11.97|36.93/-12.29|37.55/-12.29</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly323" target="_blank" url="" description="">
+      <polystring>39.65/-10.08|39.04/-10.08|39.04/-10.46|39.65/-10.46</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly324" target="_blank" url="" description="">
+      <polystring>39.5/-10.59|39.04/-10.59|39.04/-10.82|39.5/-10.82</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly325" target="_blank" url="" description="">
+      <polystring>39.51/-11.44|39.17/-11.44|39.17/-12.13|39.51/-12.13</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly326" target="_blank" url="" description="">
+      <polystring>38.98/-12.08|38.67/-12.08|38.67/-12.67|38.98/-12.67</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly327" target="_blank" url="" description="">
+      <polystring>39.76/-12.61|39.4/-12.61|39.4/-13.19|39.76/-13.19</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly328" target="_blank" url="" description="">
+      <polystring>40.77/-11.38|40.43/-11.38|40.43/-12.02|40.77/-12.02</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly329" target="_blank" url="" description="">
+      <polystring>40.76/-12.24|40.42/-12.24|40.42/-12.9|40.76/-12.9</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly330" target="_blank" url="" description="">
+      <polystring>41.93/-11.65|41.58/-11.65|41.58/-12.3|41.93/-12.3</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly331" target="_blank" url="" description="">
+      <polystring>41.39/-11.68|41.07/-11.68|41.08/-12.27|41.39/-12.27</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly332" target="_blank" url="" description="">
+      <polystring>41.6/-12.6|41.27/-12.6|41.27/-13.23|41.6/-13.23</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly333" target="_blank" url="" description="">
+      <polystring>42.54/-13.38|42.19/-13.38|42.19/-14|42.54/-14</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly334" target="_blank" url="" description="">
+      <polystring>38.22/-12.55|36.57/-12.55|36.57/-14.3|38.22/-14.3</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly335" target="_blank" url="" description="">
+      <polystring>38.34/-14.72|37.6/-14.72|37.61/-15.99|38.34/-15.99</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly336" target="_blank" url="" description="">
+      <polystring>38.44/-16.3|38.07/-16.3|38.07/-17|38.44/-17</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly337" target="_blank" url="" description="">
+      <polystring>37.91/-16.31|37.52/-16.31|37.52/-16.98|37.91/-16.98</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly338" target="_blank" url="" description="">
+      <polystring>37.28/-15.16|35.46/-15.16|35.46/-16.96|37.28/-16.96</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly339" target="_blank" url="" description="">
+      <polystring>36.36/-17.78|36/-17.78|36/-18.42|36.36/-18.42</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly340" target="_blank" url="" description="">
+      <polystring>35.84/-17.77|35.49/-17.77|35.49/-18.41|35.84/-18.41</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly341" target="_blank" url="" description="">
+      <polystring>35.33/-17.76|34.96/-17.76|34.96/-18.39|35.33/-18.39</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly342" target="_blank" url="" description="">
+      <polystring>35.19/-14.76|34.73/-14.76|34.73/-14.99|35.19/-14.99</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly343" target="_blank" url="" description="">
+      <polystring>35.24/-15.2|34.84/-15.2|34.84/-15.41|35.24/-15.41</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly344" target="_blank" url="" description="">
+      <polystring>35.22/-15.77|34.81/-15.77|34.81/-16.01|35.22/-16.01</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly345" target="_blank" url="" description="">
+      <polystring>34.06/-14.97|33.66/-14.97|33.66/-15.2|34.06/-15.2</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly346" target="_blank" url="" description="">
+      <polystring>34.07/-15.31|33.64/-15.31|33.64/-15.53|34.07/-15.53</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly347" target="_blank" url="" description="">
+      <polystring>34.1/-15.98|33.69/-15.98|33.69/-16.21|34.1/-16.21</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly348" target="_blank" url="" description="">
+      <polystring>34.1/-16.55|33.68/-16.55|33.68/-16.78|34.1/-16.78</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly349" target="_blank" url="" description="">
+      <polystring>34.08/-17.09|33.67/-17.09|33.67/-17.33|34.08/-17.33</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly350" target="_blank" url="" description="">
+      <polystring>34.09/-17.71|33.69/-17.71|33.69/-17.93|34.09/-17.93</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly351" target="_blank" url="" description="">
+      <polystring>34.09/-18.26|33.66/-18.26|33.66/-18.5|34.09/-18.5</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly352" target="_blank" url="" description="">
+      <polystring>34.08/-18.87|33.68/-18.87|33.68/-19.08|34.08/-19.08</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly353" target="_blank" url="" description="">
+      <polystring>34.11/-19.2|33.68/-19.2|33.68/-19.44|34.11/-19.44</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly354" target="_blank" url="" description="">
+      <polystring>34.09/-19.55|33.69/-19.55|33.69/-19.75|34.09/-19.75</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly355" target="_blank" url="" description="">
+      <polystring>34.12/-20.55|33.66/-20.55|33.66/-20.79|34.12/-20.79</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly356" target="_blank" url="" description="">
+      <polystring>34.11/-20.89|33.67/-20.89|33.67/-21.11|34.11/-21.11</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly357" target="_blank" url="" description="">
+      <polystring>42.44/-25.85|41.24/-25.85|41.24/-26.5|42.44/-26.5</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly358" target="_blank" url="" description="">
+      <polystring>42.4/-25.28|41.74/-25.28|41.74/-25.63|42.4/-25.63</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly359" target="_blank" url="" description="">
+      <polystring>42.45/-24.32|41.26/-24.32|41.26/-24.94|42.45/-24.94</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly360" target="_blank" url="" description="">
+      <polystring>42.39/-23.73|41.7/-23.73|41.7/-24.11|42.39/-24.11</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly361" target="_blank" url="" description="">
+      <polystring>41.93/-21.83|41.59/-21.83|41.59/-22.51|41.93/-22.51</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly362" target="_blank" url="" description="">
+      <polystring>41.32/-22.11|40.99/-22.11|40.99/-22.78|41.32/-22.78</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly363" target="_blank" url="" description="">
+      <polystring>39.29/-22.53|38.96/-22.53|38.96/-23.18|39.29/-23.18</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly364" target="_blank" url="" description="">
+      <polystring>38/-21.21|37.35/-21.21|37.35/-21.55|38/-21.55</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly365" target="_blank" url="" description="">
+      <polystring>37.11/-21.22|36.37/-21.22|36.37/-21.55|37.11/-21.55</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly366" target="_blank" url="" description="">
+      <polystring>36.62/-20.75|36.19/-20.75|36.19/-20.98|36.62/-20.98</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly367" target="_blank" url="" description="">
+      <polystring>36.53/-21.73|36.11/-21.73|36.11/-21.97|36.53/-21.97</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly368" target="_blank" url="" description="">
+      <polystring>35.78/-21.73|35.1/-21.73|35.1/-22.19|35.78/-22.19</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly369" target="_blank" url="" description="">
+      <polystring>34.91/-21.62|34.68/-21.62|34.68/-22|34.91/-22</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly370" target="_blank" url="" description="">
+      <polystring>36.44/-22.34|36.1/-22.34|36.1/-22.96|36.44/-22.96</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly371" target="_blank" url="" description="">
+      <polystring>35.76/-22.7|35.06/-22.7|35.06/-23.06|35.76/-23.06</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly372" target="_blank" url="" description="">
+      <polystring>36.47/-23.24|36.11/-23.24|36.11/-23.84|36.47/-23.84</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly373" target="_blank" url="" description="">
+      <polystring>35.04/-23.36|34.38/-23.36|34.38/-23.7|35.04/-23.7</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly374" target="_blank" url="" description="">
+      <polystring>38.61/-21.88|36.81/-21.88|36.81/-23.67|38.61/-23.67</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly375" target="_blank" url="" description="">
+      <polystring>39.04/-23.88|38.45/-23.88|38.45/-24.22|39.04/-24.22</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly376" target="_blank" url="" description="">
+      <polystring>38.6/-24.41|38.02/-24.41|38.02/-24.75|38.6/-24.75</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly377" target="_blank" url="" description="">
+      <polystring>38.16/-24.92|37.53/-24.92|37.53/-25.26|38.16/-25.26</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly378" target="_blank" url="" description="">
+      <polystring>37.27/-24.93|36.66/-24.93|36.66/-25.28|37.27/-25.28</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly379" target="_blank" url="" description="">
+      <polystring>38.76/-25.52|36.93/-25.52|36.93/-26.96|38.76/-26.96</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly380" target="_blank" url="" description="">
+      <polystring>35.86/-35.44|35.48/-35.44|35.48/-36.13|35.86/-36.13</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly381" target="_blank" url="" description="">
+      <polystring>37.17/-35.15|36.22/-35.15|36.22/-35.8|37.17/-35.8</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly382" target="_blank" url="" description="">
+      <polystring>36.85/-33.7|36.22/-33.7|36.22/-34.07|36.85/-34.07</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly383" target="_blank" url="" description="">
+      <polystring>36.82/-33.53|36.2/-33.53|36.21/-33.18|36.82/-33.18</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly384" target="_blank" url="" description="">
+      <polystring>35.31/-33.32|34.6/-33.32|34.6/-33.64|35.31/-33.64</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly385" target="_blank" url="" description="">
+      <polystring>34.45/-33.09|34.08/-33.09|34.08/-32.48|34.45/-32.48</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly386" target="_blank" url="" description="">
+      <polystring>32.88/-32.7|29.6/-32.7|29.6/-35.92|32.88/-35.92</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly387" target="_blank" url="" description="">
+      <polystring>34.1/-21.22|33.68/-21.22|33.68/-21.44|34.1/-21.44</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly388" target="_blank" url="" description="">
+      <polystring>34.09/-21.55|33.67/-21.55|33.67/-21.77|34.09/-21.77</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly389" target="_blank" url="" description="">
+      <polystring>34.08/-21.9|33.69/-21.9|33.69/-22.14|34.08/-22.14</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly390" target="_blank" url="" description="">
+      <polystring>34.09/-22.24|33.7/-22.24|33.7/-22.47|34.09/-22.47</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly391" target="_blank" url="" description="">
+      <polystring>34.08/-22.58|33.7/-22.58|33.7/-22.82|34.08/-22.82</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly392" target="_blank" url="" description="">
+      <polystring>34.05/-22.93|33.46/-22.93|33.46/-23.26|34.05/-23.26</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly393" target="_blank" url="" description="">
+      <polystring>33.12/-23.12|32.7/-23.12|32.7/-23.33|33.12/-23.33</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly394" target="_blank" url="" description="">
+      <polystring>33.37/-23.48|32.7/-23.48|32.7/-23.8|33.37/-23.8</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly395" target="_blank" url="" description="">
+      <polystring>33.1/-24.5|32.67/-24.5|32.67/-24.76|33.1/-24.76</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly396" target="_blank" url="" description="">
+      <polystring>33.1/-24.85|32.68/-24.85|32.68/-25.1|33.1/-25.1</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly397" target="_blank" url="" description="">
+      <polystring>34.14/-23.41|33.68/-23.41|33.68/-23.62|34.14/-23.62</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly398" target="_blank" url="" description="">
+      <polystring>34.12/-23.76|33.64/-23.76|33.64/-23.99|34.12/-23.99</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly399" target="_blank" url="" description="">
+      <polystring>34.12/-24.1|33.66/-24.1|33.66/-24.34|34.12/-24.34</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly400" target="_blank" url="" description="">
+      <polystring>34.13/-24.43|33.67/-24.43|33.67/-24.65|34.13/-24.65</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly401" target="_blank" url="" description="">
+      <polystring>34.12/-24.76|33.68/-24.76|33.68/-25|34.12/-25</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly402" target="_blank" url="" description="">
+      <polystring>34.12/-25.11|33.66/-25.11|33.66/-25.35|34.12/-25.35</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly403" target="_blank" url="" description="">
+      <polystring>34.12/-25.47|33.68/-25.47|33.68/-25.7|34.12/-25.7</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly404" target="_blank" url="" description="">
+      <polystring>34.11/-25.79|33.7/-25.79|33.7/-26.01|34.11/-26.01</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly405" target="_blank" url="" description="">
+      <polystring>34.11/-26.13|33.7/-26.13|33.7/-26.37|34.11/-26.37</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly406" target="_blank" url="" description="">
+      <polystring>34.11/-26.47|33.69/-26.47|33.69/-26.71|34.11/-26.71</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly407" target="_blank" url="" description="">
+      <polystring>34.11/-26.86|33.68/-26.86|33.68/-27.1|34.11/-27.1</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly408" target="_blank" url="" description="">
+      <polystring>34.11/-27.2|33.67/-27.2|33.67/-27.43|34.11/-27.43</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly409" target="_blank" url="" description="">
+      <polystring>34.11/-27.55|33.67/-27.55|33.67/-27.77|34.11/-27.77</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly410" target="_blank" url="" description="">
+      <polystring>34.11/-27.89|33.69/-27.89|33.69/-28.15|34.11/-28.15</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly411" target="_blank" url="" description="">
+      <polystring>34.11/-28.22|33.69/-28.22|33.69/-28.48|34.11/-28.48</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly412" target="_blank" url="" description="">
+      <polystring>33.76/-31.38|33.37/-31.38|33.37/-32.07|33.76/-32.07</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly413" target="_blank" url="" description="">
+      <polystring>33.26/-31.4|33.02/-31.4|33.02/-31.84|33.26/-31.84</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly414" target="_blank" url="" description="">
+      <polystring>32.91/-31.4|32.68/-31.4|32.68/-31.85|32.91/-31.85</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly415" target="_blank" url="" description="">
+      <polystring>32.21/-31.4|31.97/-31.4|31.97/-31.82|32.21/-31.82</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly416" target="_blank" url="" description="">
+      <polystring>31.48/-31.41|31.26/-31.41|31.26/-31.8|31.48/-31.8</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly417" target="_blank" url="" description="">
+      <polystring>30.44/-31.41|30.19/-31.41|30.19/-31.8|30.44/-31.8</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly418" target="_blank" url="" description="">
+      <polystring>30.08/-31.41|29.86/-31.41|29.86/-31.82|30.08/-31.82</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly419" target="_blank" url="" description="">
+      <polystring>29.74/-31.42|29.51/-31.42|29.51/-31.8|29.74/-31.8</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly420" target="_blank" url="" description="">
+      <polystring>29.39/-31.43|29.15/-31.43|29.15/-31.82|29.39/-31.82</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly421" target="_blank" url="" description="">
+      <polystring>29.03/-31.43|28.82/-31.43|28.82/-31.82|29.03/-31.82</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly422" target="_blank" url="" description="">
+      <polystring>28.68/-31.42|28.46/-31.42|28.46/-31.85|28.68/-31.85</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly423" target="_blank" url="" description="">
+      <polystring>28.32/-31.44|28.13/-31.44|28.13/-31.82|28.32/-31.82</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly424" target="_blank" url="" description="">
+      <polystring>28.43/-32.25|28.07/-32.25|28.07/-32.85|28.43/-32.85</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly425" target="_blank" url="" description="">
+      <polystring>27.53/-31.44|27.17/-31.44|27.17/-32.08|27.53/-32.08</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly426" target="_blank" url="" description="">
+      <polystring>26.95/-29.96|26.59/-29.96|26.59/-30.57|26.95/-30.57</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly427" target="_blank" url="" description="">
+      <polystring>26.26/-30.47|25.94/-30.47|25.94/-31.1|26.26/-31.1</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly428" target="_blank" url="" description="">
+      <polystring>25.77/-30.48|25.41/-30.48|25.41/-31.1|25.77/-31.1</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly429" target="_blank" url="" description="">
+      <polystring>25.15/-30.45|24.92/-30.45|24.92/-30.86|25.15/-30.86</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly430" target="_blank" url="" description="">
+      <polystring>24.57/-30.45|24.33/-30.45|24.33/-30.88|24.57/-30.88</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly431" target="_blank" url="" description="">
+      <polystring>23.97/-30.47|23.74/-30.47|23.74/-30.85|23.97/-30.85</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly432" target="_blank" url="" description="">
+      <polystring>22.97/-30.47|22.74/-30.47|22.74/-30.88|22.97/-30.88</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly433" target="_blank" url="" description="">
+      <polystring>22.63/-30.48|22.4/-30.48|22.4/-30.9|22.63/-30.9</polystring>
+    </polyhotspot>
+    <polyhotspot title="" id="MasterPoly434" target="_blank" url="" description="">
+      <polystring>22.28/-30.47|22.05/-30.47|22.05/-30.86|22.28/-30.86</polystring>
+    </polyhotspot>
+  </hotspots>
+  <media/>
+  <transition delay="none" type="crossdissolve" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomin="0" zoomoutpause="1" zoomspeed="2" blendtime="1" zoomafterinfov="140" zoomout="0" enabled="1" zoomfov="40"/>
+  <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+  <control contextprojections="0" lockedwheel="0" lockedmouse="0" lockedkeyboard="0" speedwheel="4" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="0" invertwheel="1" zoomcentercursor="1" hideabout="1" sensitivity="20" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" contextvr="0"/>
+  <projectuserdata tags="" title="" description="" author="" comment="" copyright=""/>
+</panorama>
